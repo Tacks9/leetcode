@@ -5,3 +5,5 @@
 刷题网址：`https://leetcode-cn.com/`
 
 使用语言：`PHP`
+
+预期目标：每周两道
